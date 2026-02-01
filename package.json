@@ -65,8 +65,7 @@
   },
   "lint-staged": {
     "*.js": [
-      "prettier --write",
-      "eslint --fix --format node_modules/eslint-friendly-formatter/index.js"
+      "prettier --write"
     ]
   },
   "keywords": [
