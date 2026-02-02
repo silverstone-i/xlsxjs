@@ -1,6 +1,6 @@
 {
-  "name": "xlsxjs",
-  "version": "4.4.0",
+  "name": "@nap-sft/xlsxjs",
+  "version": "0.00",
   "description": "Excel Workbook Manager - Read and Write xlsx and csv Files.",
   "private": false,
   "license": "MIT",
